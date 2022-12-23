@@ -1,0 +1,18 @@
+"":
+    train_data:
+        train_labels:
+            record:
+                private_id: True
+                type: int
+            fin_act:
+                type: int
+                lower: 0
+                upper: 1
+            fin_help:
+                type: int
+                lower: 0
+                upper: 1
+            ret:
+                type: int
+                lower: 0
+                upper: 1
