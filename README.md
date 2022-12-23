@@ -1,6 +1,6 @@
 # Privacy-enhancing-technologies
 
-This project is done as part of the Global enigneering concepts course. In this project, Different state-of-the-art privacy enhancing technologies are used for evaluation of their efficacy. This project also partly had inspiration from PET Lab hackathon conducted from Nov 8th - 11th 2022 by UN PET lab which is part of UN Big data team.  
+This project is done as part of the Global enigneering concepts course. In this project, Different state-of-the-art privacy enhancing technologies are used for evaluation of their efficacy. This project also partly had inspiration from PET Lab hackathon(https://github.com/ObliviousAI/petlab_competition) conducted from Nov 8th - 11th 2022 by UN PET lab which is part of UN Big data team.  
 
 Input dataset is the refugee information collected by UN Refugee agency https://microdata.unhcr.org/index.php/catalog/296/study-description, As this data is sensitive it was a good case to test the efficacy of the PET tools.  
 
